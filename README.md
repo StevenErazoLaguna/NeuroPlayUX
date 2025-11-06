@@ -63,10 +63,3 @@ This enables **predictive adaptation**, where the interface learns and evolves w
 | Version Control | Git + GitHub |
 
 ---
-
-## ⚙️ How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/StevenErazoLaguna/NeuroPlayUX.git
-   cd NeuroPlayUX
